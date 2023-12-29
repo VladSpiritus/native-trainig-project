@@ -1,0 +1,46 @@
+{
+  "albums": [
+    {
+      "id:": 1,
+      "name": "The Great Silk Road",
+      "anons": "2008",
+      "full": "Paragon Records",
+      "key": "1",
+      "img": "https://i.discogs.com/0Xt828wXqxE2rZqxp4_YBn0nYP8mBtXeccrllTsnGj4/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM1/NzQtMTM0OTk1NjI5/My00NDg4LmpwZWc.jpeg"
+    },
+    {
+      "id:": 2,
+      "name": "Манас",
+      "anons": "2013",
+      "full": "Osmose Productions",
+      "key": "2",
+      "img": "https://i.discogs.com/qwaX2R4_KFCRaB950w_vxEH87wU_X2CK8sruIz65Ttg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzM4/MDgtMTU1MjM5NDI5/Ni03OTQxLmpwZWc.jpeg"
+    },
+    {
+      "id:": 3,
+      "name": "Embrace Of Memory",
+      "anons": "2005",
+      "full": "No Colours Record",
+      "key": "3",
+      "img": "https://i.discogs.com/usP7LabWg8g7qWbnG6W7TYrq8-6eoQXZQzi2oJurZFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI3/OTAtMTM0OTk1Njk5/Mi03MDEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Turan",
+      "anons": "2020",
+      "full": "Q1",
+      "img": "https://lastfm.freetls.fastly.net/i/u/770x0/6dc0d74b269fcd8f2768892654e2132f.jpg#6dc0d74b269fcd8f2768892654e2132f",
+      "key": "54.5221376241517",
+      "id": 2741
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
